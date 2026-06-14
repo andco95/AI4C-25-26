@@ -1,0 +1,21 @@
+# --- jupyter notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# --- VS Code ---
+.vscode/
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Dati di grandi dimensioni (Opzionale ma consigliato) ---
