@@ -17,5 +17,3 @@ env/
 # --- Sistema Operativo ---
 .DS_Store
 Thumbs.db
-
-# --- Dati di grandi dimensioni (Opzionale ma consigliato) ---
