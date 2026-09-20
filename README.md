@@ -63,8 +63,8 @@ AI4C-25-26/
 
 *Briefly describe the dataset used in this project.*
 
-- **Name:** *[e.g., CIC-IDS2017 / NSL-KDD / Custom Dataset]*
-- **Description:** *[e.g., Network traffic captures containing benign and malicious activity]*
+- **Name:** CTU-13-DataseT
+- **Description:** The CTU-13 is a dataset of botnet traffic that was captured in the CTU University, Czech Republic, in 2011. The goal of the dataset was to have a large capture of real botnet traffic mixed with normal traffic and background traffic.
 
 ---
 
