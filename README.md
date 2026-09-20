@@ -30,7 +30,7 @@ AI4C-25-26/
 
 ---
 
-## ⚙️ Requirements installation 
+## Requirements installation 
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -59,7 +59,7 @@ AI4C-25-26/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 *Briefly describe the dataset used in this project.*
 
@@ -68,6 +68,6 @@ AI4C-25-26/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
